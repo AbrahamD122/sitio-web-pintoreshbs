@@ -1,0 +1,36 @@
+h1{
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+}
+p{
+    color: greenyellow;
+    font-size: 150%;
+    text-align: center;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    display: block;
+    margin: auto;
+}
+hr{
+    height: 20px;
+    width: 1700px;
+    background-color: coral;
+}
+body{
+    background-color:black;
+}
+a{
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+h2{
+    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    text-align: center;
+}
+
